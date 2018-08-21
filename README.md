@@ -1,4 +1,4 @@
-Simple Reddit searcher with React / Redux 
+## Simple Reddit searcher with React / Redux 
 
-npm install
-npm start 
+> npm install
+> npm start 
