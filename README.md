@@ -6,6 +6,6 @@
 ### Run 
 > npm start 
 
+[Demo](https://instagram.com/p/Bmv8wXHhsTi/)
 
-<a href="https://instagram.com/p/Bmv8wXHhsTi/" target="_blank">Demo</a>
 
