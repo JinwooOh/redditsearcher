@@ -6,4 +6,4 @@
 ### Run 
 > npm start 
 
-[Demo](https://instagram.com/p/Bmv8wXHhsTi/).
+[Demo](https://instagram.com/p/Bmv8wXHhsTi/, target="_blank")
