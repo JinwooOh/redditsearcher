@@ -1,7 +1,7 @@
 ## Simple Reddit searcher with React / Redux 
 
-- Install 
+### Install 
 > npm install
 
-- Run 
+### Run 
 > npm start 
